@@ -3,6 +3,7 @@ Zet je naam op de lijst!
 
 De volgende mensen hebben meegedaan aan de Git Gud-workshop:
 
+- Joris de Jong
 - Emilius Maximus
 - Maarten van den Berg
 - Lars Verhoeven (naamdonateur)
